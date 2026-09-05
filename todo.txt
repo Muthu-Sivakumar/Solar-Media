@@ -2,7 +2,7 @@
 (done) ensure all card scaffolds have appropriate images
     (done) fix .jpg and .svg image sizes and resolutions
 
-add alt="" for each image
+(done) add alt="" for each image
 fix links to "Image Credits"
 how to write alt="" for WIkipedia Commons images
 
@@ -11,3 +11,6 @@ Once card scaffolding has been established, setup each article
 
 
 get approval to use official images for each card. for now, use related images
+
+
+modularized navbar (no optimizationsbaased on relative positon. everyhitng is equal and can be swappe d across all navbars)
