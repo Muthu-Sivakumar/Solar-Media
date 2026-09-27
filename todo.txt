@@ -3,14 +3,16 @@
     (done) fix .jpg and .svg image sizes and resolutions
 
 (done) add alt="" for each image
+(done) modularized navbar (no optimizationsbaased on relative positon. everyhitng is equal and can be swappe d across all navbars)
 
-Once card scaffolding has been established, setup each article
-    create and apply article scaffolding to every article
-
-
-get approval to use official images for each card. for now, use related images
+(done) Once card scaffolding has been established, setup each article
+    (done) create and apply article scaffolding to every article
 
 
-fix links to "Image Credits"
-how to write alt="" for WIkipedia Commons images
-modularized navbar (no optimizationsbaased on relative positon. everyhitng is equal and can be swappe d across all navbars)
+for later
+    fix links to "Image Credits"
+        https://commons.wikimedia.org/wiki/File:Diferentes_formas_de_ser_peat%C3%B3n_en_el_Centro_Hist%C3%B3rico_de_la_Ciuadd_de_M%C3%A9xico.jpg
+        https://commons.wikimedia.org/wiki/File:Barragem_da_Aguieira.jpg
+        https://commons.wikimedia.org/wiki/File:Airborne_wind_generator-en.svg
+    how to write alt="" for WIkipedia Commons images
+    get approval to use official images for each card. for now, use related images
